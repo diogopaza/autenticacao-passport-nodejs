@@ -6,6 +6,6 @@ Também será usada a biblioteca <b>Bcrypt</b> que utiliza hash de senhas. Técn
 
 <h2>Comandos usados:</h2>
 
-<p>npm i  bcrypt</p>: instala a lib bcrypt, uma das mais populares no gerenciador <b>NPM</b>. 
+<p>npm i  bcrypt: instala a lib bcrypt, uma das mais populares no gerenciador <b>NPM</b>.</p> 
 
-npm i passport express-session: para manipular as sessões usando Express será usado o módulo express-session. 
+<p>npm i passport express-session: para manipular as sessões usando Express será usado o módulo express-session.</p> 
